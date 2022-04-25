@@ -8,7 +8,7 @@
 
 ## Building
 #### Linux/macOS
- mvn install
+ - mvn install
  
 ####  Windows
- mnv package
+ - mnv package
